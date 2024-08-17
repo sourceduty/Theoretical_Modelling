@@ -18,6 +18,12 @@ In addition to providing explanations and guidance, this GPT emphasizes accuracy
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Math](https://github.com/sourceduty/Math)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Space](https://github.com/sourceduty/Space)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
