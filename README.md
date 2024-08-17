@@ -24,6 +24,8 @@ In addition to providing explanations and guidance, this GPT emphasizes accuracy
 [Space](https://github.com/sourceduty/Space)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Metamodel Developer](https://github.com/sourceduty/Metamodel_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
