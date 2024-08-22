@@ -28,6 +28,8 @@ In addition to providing explanations and guidance, this GPT emphasizes accuracy
 [Metamodel Developer](https://github.com/sourceduty/Metamodel_Developer)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
