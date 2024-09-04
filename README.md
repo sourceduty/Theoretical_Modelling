@@ -30,6 +30,8 @@ In addition to providing explanations and guidance, this GPT emphasizes accuracy
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
