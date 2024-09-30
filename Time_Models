@@ -1,0 +1,29 @@
+1. Line (Linear Time Model)
+
+   - Definition: Time is modeled as a continuous and proportional variable. A linear relationship between time and some other variable is assumed.
+   - Use Cases: Constant velocity motion, financial growth with constant interest.
+   - Example: Distance traveled over time in uniform motion: `d = vt`, where `v` is constant velocity.
+
+2. Curve (Nonlinear Time Model)
+
+   - Definition: Time is modeled as a nonlinear variable where the rate of change between time and other variables varies. This leads to curved trajectories.
+   - Use Cases: Accelerated motion, population growth, exponential decay.
+   - Example: Distance traveled under constant acceleration: `d = 0.5at^2 + v_0t`, where `a` is acceleration.
+
+3. Sphere (Spherical Time Model in 3D Space)
+
+   - Definition: Time can be modeled in a multidimensional system where variables, such as spatial coordinates, are equidistant in relation to time. This is useful for modeling symmetrical or radial time dependencies.
+   - Use Cases: Modeling wavefronts in physics (sound/light propagation), spacetime in general relativity.
+   - Example: The wavefront of sound emitted from a point source: `r = ct`, where `r` is the radius of the spherical wave, and `c` is the speed of sound.
+
+4. Stochastic (Random Time Model)
+
+   - Definition: Time is modeled probabilistically, where events occur at random intervals rather than at fixed, predictable times. The progression of time follows a random process.
+   - Use Cases: Financial models, radioactive decay, queuing theory.
+   - Example: Radioactive decay: `N(t) = N_0e^(-λt)`, where `λ` is the decay constant, and `t` is time, with the stochastic nature of decay intervals.
+
+5. Deterministic (Fixed Time Model)
+
+   - Definition: Time evolves in a fixed, predictable manner, and the future state of a system is completely determined by the current state and time.
+   - Use Cases: Classical mechanics, control systems, chemical reactions.
+   - Example: Time evolution of a system under Newton's second law: `F = ma`, where the position and velocity of an object can be precisely predicted for any future time `t`.
