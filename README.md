@@ -57,6 +57,12 @@ Key adaptations in human evolution include bipedalism, which freed the hands for
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 <br>
 [Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
+<br>
+[Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
+<br>
+[Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[Theory Proof](https://github.com/sourceduty/Theory_Proof)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
