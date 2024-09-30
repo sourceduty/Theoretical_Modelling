@@ -1,0 +1,35 @@
+
+Proof of the Pythagorean Theorem
+
+Theorem:
+In a right-angled triangle with sides a, b, and hypotenuse c,
+c^2 = a^2 + b^2
+
+Proof:
+To prove the Pythagorean theorem, we'll use a geometric approach with two squares.
+
+1. Construct two squares:
+   - Construct a large square with side length a + b.
+   - Inside this large square, construct four right-angled triangles, each with sides a, b, and hypotenuse c, arranged so that their hypotenuses form a smaller, central square.
+
+2. Calculate the area of the large square in two ways:
+   
+   a. As the whole square:
+      Area of the large square = (a + b)^2
+   
+   b. As the sum of the four triangles and the central square:
+      - The area of one triangle is (1/2)ab.
+      - Therefore, the area of the four triangles is 4 * (1/2)ab = 2ab.
+      - Let the side length of the central square be c. Thus, its area is c^2.
+      - So, the total area of the large square can also be expressed as the sum of the areas of the four triangles and the central square:
+        Area of the large square = 2ab + c^2
+
+3. Equate the two expressions for the area:
+   (a + b)^2 = 2ab + c^2
+
+4. Expand and simplify:
+   a^2 + 2ab + b^2 = 2ab + c^2
+   a^2 + b^2 = c^2
+
+Therefore, we have proven that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides, i.e.,
+c^2 = a^2 + b^2
