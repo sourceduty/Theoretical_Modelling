@@ -63,6 +63,12 @@ Key adaptations in human evolution include bipedalism, which freed the hands for
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
 <br>
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
+<br>
+[Evolution](https://github.com/sourceduty/Evolution)
+<br>
+[Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
+<br>
+[Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
