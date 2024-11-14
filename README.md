@@ -44,8 +44,6 @@ The way states are measured depends on the type of system under consideration. I
 
 Transitions between states are described by the possible paths or transformations a system can undergo. For discrete systems, transitions are typically represented by a transition matrix, which defines the probabilities or rules for moving between states. In continuous systems, the range of transitions is captured by differential equations or vector fields, modeling the system's evolution over time. The "distance" between states can also be quantified using metrics (e.g., Euclidean distance), divergence measures (e.g., Kullback-Leibler divergence for probabilities), or norms (e.g., Hilbert space norms in quantum systems).
 
-..........................................................................................................................
-
 | Category               | Description                               | Mathematical Representation             | Examples                                                                                       |
 |------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
 | Single State           | A specific, well-defined condition of a system. | Point, vector, or pure state.           | - Scalar value: \(x \in \mathbb{R}\) <br> - Vector: \(\vec{x} \in \mathbb{R}^n\) <br> - Quantum pure state: \(|\psi\rangle\). |
@@ -65,7 +63,8 @@ Transitions between states are described by the possible paths or transformation
 | Virtual State          | States that exist transiently or hypothetically. | Intermediate or unobservable states.    | - Virtual particles in quantum field theory. <br> - Transition states in chemical reactions. |
 | Mixed State            | A combination of multiple possible states. | Density matrices, probabilistic mixtures. | - Mixed quantum states: \(\rho = \sum_i p_i |\psi_i\rangle\langle\psi_i|\). <br> - Statistical mixtures in probability theory. |
 
-#### Math States
+#
+### Math States
 
 In mathematical contexts, the term "state" refers to the specific condition or configuration of a system at a given moment. A state captures all the necessary information about a system that determines its behavior and evolution according to a defined set of rules or equations. States are a fundamental concept in fields like dynamical systems, quantum mechanics, and probability theory. For example, in a dynamical system, the state is typically represented as a point in a state space, which is a multidimensional space where each axis corresponds to a variable or degree of freedom of the system.
 
