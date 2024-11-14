@@ -1,4 +1,4 @@
-![Knowledge](https://github.com/user-attachments/assets/9ae9391e-05ed-4dc2-b83f-b2ea57d88df3)
+![Knowledge](https://github.com/user-attachments/assets/ef7f7ca9-6afe-46b5-b060-65e052506a4b)
 ![Theoretical Modelling](https://github.com/user-attachments/assets/f8fc0fc1-600b-4c6b-9017-478a31d8c122)
 
 > Assistive theoretical modeling expert.
