@@ -106,7 +106,7 @@ As the field of theoretical modeling advances, more specialized geometrical appr
 
 In theoretical modeling, states and geometries are closely intertwined, offering a powerful framework to analyze complex systems across various fields. States encapsulate the configuration or condition of a system at a given moment, and the choice of geometry influences how we understand and manipulate these states. For example, in quantum mechanics, the state of a system is typically described by a wavefunction, which can be analyzed using complex geometry or symplectic geometry in phase space. Similarly, in probabilistic systems, states are often represented as probability distributions, which can be studied using stochastic or fractal geometry to capture randomness and scale-invariance.
 
-Every geometrical concept can be combine with every theoretical state. The total number of combinations between the geometrical concepts and theoretical states is 256. 
+Every geometrical concept can be combined with every theoretical state. The total number of combinations between the geometrical concepts and theoretical states is 256. 
 
 #
 ### Theoretical Modelling Notes
