@@ -44,24 +44,24 @@ The way states are measured depends on the type of system under consideration. I
 
 Transitions between states are described by the possible paths or transformations a system can undergo. For discrete systems, transitions are typically represented by a transition matrix, which defines the probabilities or rules for moving between states. In continuous systems, the range of transitions is captured by differential equations or vector fields, modeling the system's evolution over time. The "distance" between states can also be quantified using metrics (e.g., Euclidean distance), divergence measures (e.g., Kullback-Leibler divergence for probabilities), or norms (e.g., Hilbert space norms in quantum systems).
 
-| Category               | Description                               | Mathematical Representation             | Examples                                                                                       |
-|------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
-| Single State           | A specific, well-defined condition of a system. | Point, vector, or pure state.           | - Scalar value: \(x \in \mathbb{R}\) <br> - Vector: \(\vec{x} \in \mathbb{R}^n\) <br> - Quantum pure state: \(|\psi\rangle\). |
-| Two-State System       | A system with two possible configurations. | Binary values \(\{0, 1\}\) or discrete states \(\{A, B\}\). | - Binary variables in computing. <br> - Spin-up/spin-down in quantum mechanics. <br> - Ising model: \(\pm 1\). |
-| Multi-State System     | A system with a finite or countable set of discrete states. | Enumerated states or discrete variables. | - Finite state machines. <br> - Markov chains with \(n\) states. <br> - Multi-level atomic systems in physics. |
-| Continuous State       | A system whose states form a continuum.   | Real numbers, vectors, or manifolds.    | - Dynamical systems: \(\dot{x} = f(x)\). <br> - Phase space: \((x, v) \in \mathbb{R}^{2n}\).       |
-| Probabilistic State    | States described by probability distributions. | Probability distributions or density functions. | - Random variables: \(P(X = x)\). <br> - Quantum density matrices. <br> - Statistical mechanics ensembles. |
-| Quantum State          | States in quantum systems.               | Wavefunctions, state vectors, or operators. | - Pure states: \(|\psi\rangle\). <br> - Mixed states: \(\rho\). <br> - Superposition: \(|\psi\rangle = a|0\rangle + b|1\rangle\). |
-| Composite State        | A system combining multiple subsystems or state types. | Tensor products, coupled variables.     | - Quantum entangled states: \(|\psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)\). <br> - Joint distributions in probability theory. |
-| Polar State            | Extreme, limiting, or boundary states.    | Maxima, minima, or critical points.     | - Saddle points in optimization problems. <br> - Pure vs. mixed quantum states. <br> - Stable vs. unstable fixed points in dynamics. |
-| Range Between States   | Transitions or paths connecting states.   | Trajectories, metrics, or transformation rules. | - Transition matrix in Markov chains. <br> - Trajectories in continuous systems: \(x(t)\). <br> - Metrics: Euclidean, Manhattan, or Hilbert space norms. |
-| Equilibrium State      | A steady-state or unchanging condition.   | Fixed points, attractors, or invariant sets. | - Thermodynamic equilibrium. <br> - Attractors in dynamical systems. <br> - Nash equilibrium in game theory. |
-| Dynamic State          | A time-evolving configuration of the system. | Functions of time or state-space trajectories. | - Solutions to differential equations: \(x(t)\). <br> - Population dynamics models. <br> - Quantum time evolution: \(|\psi(t)\rangle = e^{-iHt}|\psi(0)\rangle\). |
-| Meta-State             | A state describing the overall configuration of other states. | Hierarchical or abstract representations. | - Phase transitions (e.g., solid, liquid, gas in thermodynamics). <br> - Metastable states in statistical physics. |
-| Stochastic State       | States that evolve with inherent randomness. | Stochastic processes, random walks.     | - Brownian motion. <br> - Markov processes. <br> - Quantum measurements with probabilistic outcomes. |
-| Boundary State         | States at the edge or limit of a system's configuration space. | Boundary conditions or constraints.     | - Initial and final states in boundary value problems. <br> - Event horizons in general relativity. |
-| Virtual State          | States that exist transiently or hypothetically. | Intermediate or unobservable states.    | - Virtual particles in quantum field theory. <br> - Transition states in chemical reactions. |
-| Mixed State            | A combination of multiple possible states. | Density matrices, probabilistic mixtures. | - Mixed quantum states: \(\rho = \sum_i p_i |\psi_i\rangle\langle\psi_i|\). <br> - Statistical mixtures in probability theory. |
+| Category               | Description                               | Mathematical Representation             |
+|------------------------|-------------------------------------------|-----------------------------------------|
+| Single State           | A specific, well-defined condition of a system. | Point, vector, or pure state.           |
+| Two-State System       | A system with two possible configurations. | Binary values \(\{0, 1\}\) or discrete states \(\{A, B\}\). |
+| Multi-State System     | A system with a finite or countable set of discrete states. | Enumerated states or discrete variables. |
+| Continuous State       | A system whose states form a continuum.   | Real numbers, vectors, or manifolds.    |
+| Probabilistic State    | States described by probability distributions. | Probability distributions or density functions. |
+| Quantum State          | States in quantum systems.               | Wavefunctions, state vectors, or operators. |
+| Composite State        | A system combining multiple subsystems or state types. | Tensor products, coupled variables.     |
+| Polar State            | Extreme, limiting, or boundary states.    | Maxima, minima, or critical points.     |
+| Range Between States   | Transitions or paths connecting states.   | Trajectories, metrics, or transformation rules. |
+| Equilibrium State      | A steady-state or unchanging condition.   | Fixed points, attractors, or invariant sets. |
+| Dynamic State          | A time-evolving configuration of the system. | Functions of time or state-space trajectories. |
+| Meta-State             | A state describing the overall configuration of other states. | Hierarchical or abstract representations. |
+| Stochastic State       | States that evolve with inherent randomness. | Stochastic processes, random walks.     |
+| Boundary State         | States at the edge or limit of a system's configuration space. | Boundary conditions or constraints.     |
+| Virtual State          | States that exist transiently or hypothetically. | Intermediate or unobservable states.    |
+| Mixed State            | A combination of multiple possible states. | Density matrices, probabilistic mixtures. |
 
 #
 ### Math States
