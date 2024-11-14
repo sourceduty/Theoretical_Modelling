@@ -102,6 +102,32 @@ As the field of theoretical modeling advances, more specialized geometrical appr
 | Geometric Topology   | Investigates properties of manifolds and their higher-dimensional embeddings.               | Knots, tori, higher-dimensional spheres     | Knot theory, 4D geometry                       |
 
 #
+### Theoretical Modelling Notes
+
+<details><summary>Multi-Disciplinary Integration Models</summary>
+<br>
+
+Multi-Disciplinary Integration Models are frameworks or methodologies designed to combine knowledge, theories, and tools from multiple disciplines to address complex problems that cannot be fully understood within the confines of a single field. These models aim to bridge different domains, such as economics, ecology, sociology, and engineering, to capture the interdependencies and feedback loops between human and natural systems. By integrating diverse perspectives, they enable researchers to analyze and simulate the interactions between socio-economic behaviors and ecological processes, often incorporating dynamic, non-linear, and multi-scale factors. Examples include models like Coupled Human-Natural Systems (CHNS), which examine feedback between human activities and ecosystems, or Bioeconomic Models, which link ecological resource dynamics with economic decision-making. Such models are critical for tackling interdisciplinary challenges such as climate change, resource management, and sustainable development.
+
+| Framework/Model               | Key Features/Focus                                               | Use Cases                                      |
+|-------------------------------|-------------------------------------------------------------------|-----------------------------------------------|
+| Coupled Human-Natural Systems (CHNS) | Focuses on feedback loops between humans and ecosystems. Emphasizes resilience and sustainability. | Modeling land-use changes and ecosystem impacts. |
+| Integrated Assessment Models (IAMs) | Combines socio-economic and environmental models to assess policy impacts, especially on climate change. | Climate policy, energy transition modeling.   |
+| Agent-Based Modeling (ABM)    | Uses individual agents with rules to simulate interactions in social and ecological systems. | Urban planning, resource management.         |
+| Ecosystem Services Valuation  | Economic valuation of benefits provided by ecosystems to humans. | Conservation economics, biodiversity policies.|
+| Dynamic Systems Modeling      | Examines non-linear interactions and feedback over time. Often used with differential equations. | Fisheries management, population dynamics.    |
+| Social-Ecological Systems (SES) Framework | A framework to analyze multi-level interactions between society and nature. Focus on governance and institutional adaptation. | Water resource management, forest conservation. |
+| Bioeconomic Models            | Merges ecological processes with economic decision-making (e.g., fisheries, agriculture). | Sustainable fisheries, pest control.         |
+| Computational General Equilibrium (CGE) Models | Captures the economy-wide impacts of ecological constraints or policies. | Assessing carbon tax, energy economics.       |
+
+Integrating economic theories with ecological models is essential to understanding and addressing challenges like climate change, biodiversity loss, and resource depletion. One of the key benefits of such integration is the ability to capture feedback loops—for example, how economic activities (e.g., deforestation or fossil fuel consumption) affect ecological systems, and how ecological degradation, in turn, influences economic outcomes (e.g., reduced agricultural productivity or increased disaster risks). Frameworks such as Integrated Assessment Models (IAMs) and Coupled Human-Natural Systems (CHNS) are designed to address these interdependencies by incorporating economic policies and ecological constraints into a unified system, often using computational tools for simulation and scenario analysis.
+
+A critical challenge in multi-disciplinary integration is reconciling the differences in time scales, data requirements, and theoretical assumptions across disciplines. For instance, ecological models may operate over decades or centuries, while economic models often focus on shorter-term market dynamics. This requires careful calibration and sensitivity analysis to ensure the outputs are robust and meaningful. To overcome these challenges, agent-based modeling (ABM) and dynamic systems modeling provide flexible approaches that account for non-linear dynamics and emergent behaviors. By synthesizing insights from diverse fields, such integrated models provide decision-makers with tools to evaluate trade-offs and co-benefits of policies, such as balancing economic development with environmental sustainability. Beyond these eight examples, there are numerous specialized models and hybrid frameworks, such as Input-Output Environmental Models, Network Analysis Models, and Sustainability Science Frameworks. The total number of models depends on the specific application, as researchers often tailor or combine frameworks to fit their needs.
+
+<br>
+</details>
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
