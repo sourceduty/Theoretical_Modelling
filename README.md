@@ -104,6 +104,25 @@ As the field of theoretical modeling advances, more specialized geometrical appr
 #
 ### Theoretical Modelling Notes
 
+<details><summary>Interdisciplinary Modeling</summary>
+<br>
+
+Interdisciplinary modeling involves integrating methodologies, theories, and concepts from different disciplines to create unified frameworks for analyzing complex systems that span multiple fields. It seeks to leverage the unique strengths of each discipline to generate new insights and solve problems that cannot be addressed in isolation. For instance, game theory, traditionally rooted in economics and mathematics, has been applied to biological systems to model the strategic interactions between organisms in ecosystems, such as predator-prey dynamics or evolutionary stability. Similarly, physical modeling techniques, such as fluid dynamics and network theory, have been adopted in social sciences to understand phenomena like the spread of information, human migration, or the evolution of cooperation. By synthesizing these approaches, interdisciplinary modeling uncovers synergies that push the boundaries of conventional knowledge, enabling more comprehensive and predictive models of real-world phenomena.
+
+| Discipline Combination                  | Description of Synergy                                         | Example Applications                              |
+|-----------------------------------------|----------------------------------------------------------------|--------------------------------------------------|
+| Game Theory + Biology                   | Models strategic interactions in biological systems, such as competition or cooperation. | Evolutionary stability, predator-prey dynamics. |
+| Physics + Social Science                | Uses physical principles (e.g., network theory, fluid dynamics) to study social behaviors. | Information spread, migration patterns.         |
+| Economics + Ecology                     | Integrates economic decision-making with ecological processes to analyze sustainability. | Bioeconomic models, resource management.        |
+| Mathematics + Epidemiology              | Applies mathematical frameworks to model disease spread and intervention strategies. | Pandemic modeling, vaccination strategies.      |
+| Computer Science + Neuroscience         | Combines computational algorithms with neuroscience to model brain processes. | Neural networks, brain-computer interfaces.     |
+| Engineering + Environmental Science     | Develops systems-based approaches to manage environmental challenges using engineering tools. | Renewable energy systems, water management.     |
+| Sociology + Complex Systems Science     | Studies social systems using complexity theory and agent-based modeling. | Urban planning, societal resilience modeling.   |
+| Evolutionary Biology + Cultural Studies | Explores how evolutionary mechanisms apply to cultural and behavioral evolution. | Memetics, cultural transmission models.         |
+| Cognitive Science + Artificial Intelligence | Combines insights from human cognition to develop intelligent algorithms and machines. | Human-robot interaction, natural language processing. |
+
+<br>
+</details>
 <details><summary>Multi-Disciplinary Integration Models</summary>
 <br>
 
