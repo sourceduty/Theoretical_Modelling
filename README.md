@@ -255,6 +255,7 @@ The third conceptual age in this framework could be termed the "Synthesis Age." 
 
 .............................
 
+```
 Model
 └── Exploration Age (Prehistory to 20th Century)
     ├─ Focus: Discovery & Curiosity
@@ -291,6 +292,7 @@ Model
         ├─ AI as collaborative problem-solvers
         ├─ Fusion energy as a primary power source
         └─ Equitable, interconnected global systems
+```
 
 #
 ### Theoretical Modelling Notes
