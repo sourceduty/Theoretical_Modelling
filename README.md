@@ -312,6 +312,10 @@ A critical challenge in multi-disciplinary integration is reconciling the differ
 [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
 <br>
 [Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
+<br>
+[ANTI-](https://github.com/sourceduty/ANTI-)
+<br>
+[Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
