@@ -464,6 +464,8 @@ This relational framework is further emphasized in General Relativity, where gra
 [ANTI-](https://github.com/sourceduty/ANTI-)
 <br>
 [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
+<br>
+[Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
