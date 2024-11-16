@@ -302,7 +302,7 @@ Using abstraction in theoretical modeling enhances the ability to communicate id
 Abstraction operates in hierarchies, where concepts can ascend or descend depending on the level of detail required. Ascending abstraction moves toward broader, generalized principles, focusing on overarching patterns and relationships. This is often used in theoretical or strategic thinking, where specific details are less critical than understanding the fundamental structure. Descending abstraction, on the other hand, drills down into detailed specifics, unpacking the components of a system to understand its fine-grained operations. This is common in applied contexts, where precise implementation or analysis of individual elements is essential. Together, these hierarchical movements allow flexibility in shifting focus between a big-picture view and intricate details, depending on the modeling needs.
 
 ```
-Diagram (Hierarchy of Abstraction):
+Hierarchy of Abstraction:
 
 Broad General Principles
 |
