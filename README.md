@@ -293,6 +293,13 @@ Model
 ```
 
 #
+### Abstraction
+
+Abstraction is a fundamental process in theoretical modeling that involves simplifying complex systems by focusing on their most essential aspects while disregarding irrelevant details. This simplification allows theorists to create models that are manageable, generalizable, and applicable across various contexts. By isolating key variables and relationships, abstraction enables the construction of frameworks that can be analyzed and tested without the noise of superfluous information. It serves as a bridge between raw complexity and structured understanding, facilitating the development of universal principles and predictions.
+
+Using abstraction in theoretical modeling enhances the ability to communicate ideas and apply models to diverse scenarios. By stripping away unnecessary specifics, abstract models can represent a wide range of phenomena, making them adaptable to different fields or situations. For example, in economics, abstract models like supply and demand curves simplify market dynamics to their core components, allowing for predictions and policy evaluations. However, this reliance on abstraction also requires careful consideration of its limitations, as oversimplification may omit critical nuances that affect real-world applicability. Thus, abstraction is both a powerful tool and a balancing act in theoretical modeling.
+
+#
 ### Theoretical Modelling Notes
 
 <details><summary>Interdisciplinary Modeling</summary>
