@@ -1,8 +1,11 @@
 ![Knowledge](https://github.com/user-attachments/assets/ef7f7ca9-6afe-46b5-b060-65e052506a4b)
 
-> Assistive theoretical modeling expert.
+> Theoretical modelling and the development of theoretical concepts is defined across the frameworks of all sciences.
 
 #
+### Custom GPT
+
+Assistive theoretical modeling expert.
 
 [Theoretical Modelling](https://chatgpt.com/g/g-QTnHJWSCq-theoretical-modelling) was developed to assist users in understanding, developing, and refining complex theoretical models across various disciplines, such as physics, economics, biology, and more. It excels in explaining abstract concepts, creating mathematical frameworks, simulating scenarios, and analyzing the principles that underpin these models. By offering detailed explanations and clear guidance, this GPT helps users navigate the intricacies of theoretical constructs, making complex ideas more accessible and manageable.
 
