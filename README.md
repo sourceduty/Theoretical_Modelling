@@ -1,6 +1,6 @@
 ![Knowledge](https://github.com/user-attachments/assets/ef7f7ca9-6afe-46b5-b060-65e052506a4b)
 
-> Theoretical modelling and the development of theoretical concepts is defined across the frameworks of all sciences.
+> Theoretical modelling and the development of theoretical concepts as defined across the frameworks of all sciences.
 
 #
 ### Theoretical Model
