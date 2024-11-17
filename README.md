@@ -11,8 +11,6 @@ Theoretical models serve various purposes, from guiding experiments and shaping 
 #
 ### Custom GPT
 
-Assistive theoretical modeling expert.
-
 [Theoretical Modelling](https://chatgpt.com/g/g-QTnHJWSCq-theoretical-modelling) was developed to assist users in understanding, developing, and refining complex theoretical models across various disciplines, such as physics, economics, biology, and more. It excels in explaining abstract concepts, creating mathematical frameworks, simulating scenarios, and analyzing the principles that underpin these models. By offering detailed explanations and clear guidance, this GPT helps users navigate the intricacies of theoretical constructs, making complex ideas more accessible and manageable.
 
 One of the core strengths of this GPT lies in its ability to communicate complex ideas in a clear and concise manner. It breaks down sophisticated concepts into understandable components, ensuring that users can follow along without feeling overwhelmed. The GPT draws from a wide range of disciplines, providing cross-disciplinary insights that enhance understanding and model development. Whether users are exploring new theories or refining existing ones, the GPT offers valuable insights and suggestions to improve their work.
