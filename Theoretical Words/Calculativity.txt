@@ -1,0 +1,7 @@
+Calculativity
+
+Calculativity is the quality or state of being able to be calculated, measured, quantified, analyzed, and understood through mathematical operations. It refers to the extent to which something can be expressed in terms of numbers, variables, equations, formulas, algorithms, models, and other computational tools. Calculable entities are those that lend themselves well to quantitative analysis and manipulation using mathematics as a means for understanding their properties, relationships, behaviors, or outcomes.
+
+The degree to which something is calculative can vary widely and may depend on the context or level of analysis being applied. Some things that are difficult to calculate at one scale might become more calculable when broken down into smaller components, aggregated across a population, or modeled over time. The development of new mathematical tools also expands what we're able to quantify in principle.
+
+In summary, calculativity is the property of something being susceptible to quantitative analysis and manipulation using mathematics as an explanatory framework for understanding its nature and behavior. It represents our ability to represent entities and phenomena through computational means.
