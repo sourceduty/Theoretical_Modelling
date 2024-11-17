@@ -57,6 +57,13 @@ Theoretical Model Index
 ```
 
 #
+### Extensive Model Quantity
+
+There is no central database that tracks the number of theoretical models used in each subfield, nor would it be feasible given how many new theories are constantly being developed across various disciplines. The total amount of scientific subfields could potentially range from a few hundred to several thousand depending on your level of granularity and categorization criteria. There are around 20 major branches of science (e.g., physics, chemistry, biology) which then branch out into numerous specialized fields like astrophysics within physics or ecology within biology.
+
+In terms of theoretical models used in each subfield, it's safe to say that the number is quite large and constantly growing as new research emerges. For example, there are dozens upon dozens of different economic theories applied across various areas such as macroeconomics, microeconomics, behavioral economics etc. Similarly, fields like physics have hundreds if not thousands of models used in subfields ranging from quantum mechanics to general relativity.
+
+#
 ### Abstraction of Theories and Theoretical Model Construction
 
 The abstraction of theories and the construction of theoretical models are deeply intertwined processes that transform complex, real-world phenomena into systematic frameworks of understanding. Theories represent high-level abstractions that aim to explain broad classes of phenomena through a set of principles, axioms, or generalized statements. They are often qualitative and philosophical in nature, providing a conceptual foundation or worldview from which models can be constructed. On the other hand, theoretical models are more specific, structured representations derived from theories (or empirical observations), often formulated using mathematical or computational frameworks to predict, simulate, or describe specific phenomena.
