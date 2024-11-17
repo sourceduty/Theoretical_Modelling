@@ -518,6 +518,10 @@ The standard parts of the Concept-Relation Model include three key elements. The
 </details>
 
 #
+
+> Alex: "*Theoretical modelling and the development of theoretical concepts is defined across the frameworks of almost all sciences.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
