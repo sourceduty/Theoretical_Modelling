@@ -146,6 +146,8 @@ Key adaptations in human evolution include bipedalism, which freed the hands for
 #
 ### States
 
+![Snowball](https://github.com/user-attachments/assets/610d8c1b-cb59-4242-89c2-4f8b3c9acaf1)
+
 In theoretical modeling, the concept of a "state" refers to the specific condition or configuration of a system at a given moment. A state encapsulates all the necessary information about a system that determines its behavior and evolution according to defined rules or equations. States are foundational to fields like dynamical systems, quantum mechanics, and probability theory. For example, in a dynamical system, the state is often represented as a point in a state space, a multidimensional construct where each axis corresponds to a variable or degree of freedom.
 
 The way states are measured depends on the type of system under consideration. In classical systems, states are commonly represented as vectors or points in Euclidean or phase space, with their properties measured based on their coordinates. For probabilistic systems, states are expressed as probability distributions, which quantify the likelihood of a system being in particular configurations. In quantum mechanics, states are represented using wavefunctions or density matrices, and measurements are performed using operators. These operators yield quantities such as probabilities, expectation values, or eigenvalues, which correspond to observable properties.
