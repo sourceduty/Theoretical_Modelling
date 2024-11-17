@@ -3,9 +3,6 @@
 > Theoretical modelling and the development of theoretical concepts as defined across the frameworks of all sciences.
 
 #
-### Theoretical Model
-
-![Theoretical Modelling](https://github.com/user-attachments/assets/f8fc0fc1-600b-4c6b-9017-478a31d8c122)
 
 A theoretical model is a simplified and abstract representation of a complex real-world system or phenomenon, designed to explain, predict, or simulate its behavior. It uses a set of assumptions, mathematical equations, or conceptual frameworks to capture the essential features of the system while leaving out less critical details. Theoretical models are foundational tools in scientific research, as they allow researchers to test hypotheses, understand causal relationships, and predict outcomes without needing to observe every element of the system directly. They can be qualitative, relying on conceptual relationships, or quantitative, using mathematical and statistical techniques to express these relationships precisely.
 
