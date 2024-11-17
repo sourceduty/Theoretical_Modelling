@@ -368,6 +368,15 @@ Utilizing infinity as a high-level theoretical skill involves harnessing the con
 Beyond mathematics, infinity serves as a conceptual tool in theoretical physics, computer science, and even philosophy. In physics, it aids in modeling phenomena like singularities in black holes and the infinite expanse of the universe. Computer science leverages the concept for designing algorithms that approximate solutions to problems involving potentially infinite states or iterations, such as machine learning models. Philosophers use infinity to grapple with questions about time, existence, and the nature of reality. High-level utilization of infinity demands intellectual flexibility and the ability to abstractly reason about boundlessness while applying it in practical frameworks. It challenges conventional thinking, enabling breakthroughs that push the boundaries of human knowledge and technological innovation.
 
 #
+### Computational Theory or Theoretical Modelling
+
+![Computational](https://github.com/user-attachments/assets/07ecb14f-a8a2-4ce6-b088-ddd078b3ecbc)
+
+Computational theory and theoretical modeling operate at different levels of abstraction and focus, but neither can strictly be considered "higher" or "lower" science as they serve complementary purposes within scientific inquiry. Computational theory is foundational and deals with the fundamental principles of computation, defining what can and cannot be computed, the efficiency of computational processes, and the classification of problems based on their complexity. It provides a general and highly abstract framework that applies across domains, emphasizing the universal properties of computation. For instance, computational theory explores concepts such as Turing machines, NP-completeness, and algorithmic limits, which serve as a bedrock for reasoning about computational models used in various fields.
+
+Theoretical modeling, on the other hand, is more applied and focuses on creating models that represent specific systems or phenomena, often in fields like physics, biology, or economics. While theoretical modeling uses computational tools and frameworks derived from computational theory, its goal is to simulate and analyze real-world systems to make predictions or gain insights. In this sense, theoretical modeling builds on the abstractions and results provided by computational theory, tailoring them to practical problems. Therefore, computational theory could be considered more "general" and foundational, whereas theoretical modeling is more "specific" and context-driven. Both are essential: computational theory underpins the tools and concepts used in theoretical modeling, while theoretical modeling applies these principles to solve concrete problems.
+
+#
 ### Theoretical Modelling Notes
 
 <details><summary>Interdisciplinary Modeling</summary>
