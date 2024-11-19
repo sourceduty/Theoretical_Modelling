@@ -52,6 +52,15 @@ One of the core strengths of this GPT lies in its ability to communicate complex
 In addition to providing explanations and guidance, this GPT emphasizes accuracy and ethical considerations. It ensures that all information is up-to-date and reliable, avoiding the use of overly technical jargon unless specifically requested. If a query is vague or falls outside its expertise, the GPT asks clarifying questions or recommends further research rather than making assumptions. Its tone is professional yet approachable, fostering an environment where users feel comfortable exploring ideas and asking questions.
 
 #
+### Theoretical Model Creation Tool
+
+![Theoretical Model Builder](https://github.com/user-attachments/assets/91425d6b-31ff-455f-92df-7f91f798a96d)
+
+This tool is an advanced, terminal-based Python program designed to help users build and manage detailed scientific models. It allows for the creation of complex models involving a wide array of scientific concepts such as forces, systems, laws, and variables. The program supports the specification of attributes like constants, units, and error margins for each concept, providing a structured and precise way to define scientific principles. It also introduces dynamic states, where users can track how concepts evolve over time or under specific conditions, such as changes in temperature or pressure. The model builder allows users to define relationships between concepts (e.g., "affects," "depends on") and customize the way different elements of the model interact with each other, providing a rich, flexible tool for scientific simulation and theory exploration.
+
+This enhanced program goes beyond basic process modeling by offering features such as user-defined states and conditions, allowing users to incorporate more complex scenarios. It also includes advanced validation mechanisms that ensure the model’s consistency and scientific accuracy. By facilitating the integration of metadata and dynamic transitions, the program helps users create highly detailed theoretical models that reflect real-world phenomena. Whether it's for research, simulations, or educational purposes, the Theoretical Science Model Builder provides an intuitive, yet powerful platform for building and saving scientific models with an emphasis on clarity and precision.
+
+#
 ### AI-Assisted Theoretical Science
 
 ChatGPT is a powerful tool for inventing, developing, and creating new ideas by acting as a collaborative partner in brainstorming and refining concepts. It can generate diverse perspectives, identify potential challenges, and suggest innovative solutions in response to user input. By leveraging vast amounts of pre-existing knowledge, it helps users explore new avenues in research, design, and problem-solving across various fields. Whether drafting new scientific theories, designing products, or creating stories, ChatGPT offers structured insights, alternative viewpoints, and valuable suggestions, all while adhering to the user's preferences and requirements.
