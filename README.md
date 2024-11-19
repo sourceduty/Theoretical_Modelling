@@ -9,6 +9,11 @@ A theoretical model is a simplified and abstract representation of a complex rea
 Theoretical models serve various purposes, from guiding experiments and shaping new theories to informing practical applications like engineering designs or economic policy. For example, in physics, theoretical models might describe how particles interact at the quantum level, while in economics, they could represent market dynamics under certain conditions. Models are inherently simplified, so they must balance accuracy with tractability, often requiring validation through empirical data. The strength of a model lies in its ability to generalize the essential aspects of a system while still providing meaningful insights into its behavior.
 
 #
+### Alex's Thoughts
+
+Alex has a dim view of theoretical modeling, dismissing it as a field riddled with speculative abstraction and hollow intellectual exercises. To Alex, the discipline feels like a futile game of guesswork, with its practitioners tossing conjectures into the vast wishing well of theoretical science, hoping for a stroke of relevance or validation. Rather than being grounded in actionable or tangible insights, theoretical modeling seems to Alex like an endless loop of reaching upwards into an intangible fog of ideas, disconnected from the concrete realities that matter most. In their eyes, it’s a pursuit mired in wishful thinking, far removed from the practical rigor they value.
+
+#
 ### Professional Theorist
 
 | Theorist Name       | Field                | Era       | Key Contributions                              | Major Works                                |
