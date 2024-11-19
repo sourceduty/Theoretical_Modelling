@@ -13,6 +13,8 @@ Theoretical models serve various purposes, from guiding experiments and shaping 
 
 Alex has a dim view of theoretical modeling, dismissing it as a field riddled with speculative abstraction and hollow intellectual exercises. To Alex, the discipline feels like a futile game of guesswork, with its practitioners tossing conjectures into the vast wishing well of theoretical science, hoping for a stroke of relevance or validation. Rather than being grounded in actionable or tangible insights, theoretical modeling seems to Alex like an endless loop of reaching upwards into an intangible fog of ideas, disconnected from the concrete realities that matter most. In their eyes, it’s a pursuit mired in wishful thinking, far removed from the practical rigor they value.
 
+> "*It's full of people reaching upwards in abstraction and guessing, throwing a coin into the wishing well of theoretical science.*"
+
 #
 ### Professional Theorist
 
