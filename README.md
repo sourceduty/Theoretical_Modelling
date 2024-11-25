@@ -653,5 +653,8 @@ The standard parts of the Concept-Relation Model include three key elements. The
 <br>
 [Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
 
+#
+![Theoretical](https://github.com/user-attachments/assets/dda76db4-376e-44d8-b3c0-c09a77fb0f3c)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
