@@ -9,6 +9,21 @@ A theoretical model is a simplified and abstract representation of a complex rea
 Theoretical models serve various purposes, from guiding experiments and shaping new theories to informing practical applications like engineering designs or economic policy. For example, in physics, theoretical models might describe how particles interact at the quantum level, while in economics, they could represent market dynamics under certain conditions. Models are inherently simplified, so they must balance accuracy with tractability, often requiring validation through empirical data. The strength of a model lies in its ability to generalize the essential aspects of a system while still providing meaningful insights into its behavior.
 
 #
+### Computer User Abstraction
+
+The levels of abstraction for computer users range from the most basic, hands-on interaction with hardware to the theoretical principles underlying computational systems. At the foundational level, users interact with physical components like processors and memory, often through operating systems that abstract complex hardware operations. Moving upward, users engage with software applications, where they can use graphical interfaces and command-line tools. This layer hides the complexity of system internals, making technology accessible to a broader audience. As the user advances, they may deal with programming languages and frameworks, which require a deeper understanding of logic, data structures, and algorithms but still abstract away hardware-level concerns.
+
+At the highest abstraction, the focus shifts to theoretical computer science, which deals with the study of algorithms, computational complexity, and formal models of computation. This is the realm of theoretical research, where concepts like Turing machines, automata, and computational hierarchies are explored. The ultimate goal here is to understand the fundamental limits of what can be computed, and this knowledge informs the development of more efficient algorithms and the evolution of computing theory itself. In essence, the path from user to researcher moves from direct interaction with technology to conceptual models that guide innovation.
+
+```
+5. Theoretical Computer Science
+4. Programming Languages & Frameworks
+3. Software Applications & User Interfaces
+2. Operating System Level
+1. Basic Interaction with Hardware
+```
+
+#
 ### Alex's Thoughts
 
 Alex has a dim view of theoretical modeling, dismissing it as a field riddled with speculative abstraction and hollow intellectual exercises. To Alex, the discipline feels like a futile game of guesswork, with its practitioners tossing conjectures into the vast wishing well of theoretical science, hoping for a stroke of relevance or validation. Rather than being grounded in actionable or tangible insights, theoretical modeling seems to Alex like an endless loop of reaching upwards into an intangible fog of ideas, disconnected from the concrete realities that matter most. In their eyes, it’s a pursuit mired in wishful thinking, far removed from the practical rigor they value.
