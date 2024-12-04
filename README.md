@@ -690,6 +690,14 @@ The standard parts of the Concept-Relation Model include three key elements. The
 [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 <br>
 [Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
+<br>
+[ASI](https://github.com/sourceduty/ASI)
+<br>
+[AI](https://github.com/sourceduty/AI/)
+<br>
+[xAI](https://github.com/sourceduty/xAI)
+<br>
+[AGI](https://github.com/sourceduty/AGI)
 
 #
 ![Theoretical](https://github.com/user-attachments/assets/dda76db4-376e-44d8-b3c0-c09a77fb0f3c)
