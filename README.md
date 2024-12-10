@@ -27,6 +27,13 @@ The cost of hardware for these experiments varies significantly, depending on th
 In space exploration, hardware costs are especially significant due to the complexity of building and launching systems that can operate in extreme environments. NASA’s Artemis program, for example, is expected to exceed $93 billion over a decade, including the Space Launch System, Orion spacecraft, and lunar landers. Mars exploration missions, like the Perseverance rover, cost approximately $2.7 billion, covering hardware design, assembly, and deployment. These projects also require advanced computing infrastructure to handle the vast amounts of data generated, such as CERN’s Worldwide LHC Computing Grid, which processes petabytes of data annually at a cost of tens of millions of dollars. Despite the high costs, these investments drive technological innovation and scientific progress, often leading to benefits beyond their immediate research goals.
 
 #
+### CERN Runs
+
+![Cosmology](https://github.com/user-attachments/assets/1e1c196f-83b1-4551-b0a6-b44463f83168)
+
+Following Run 3 in 2025, the LHC will enter Long Shutdown 3 (2025–2028) to prepare for the High-Luminosity LHC (HL-LHC) era, set to begin with Run 4 in 2029. The HL-LHC aims to enhance the collider's luminosity, thereby increasing the potential for new discoveries. Both ATLAS and CMS are undergoing significant upgrades to operate effectively during this period. The lifespan of ATLAS and CMS is closely tied to the LHC's operational schedule. They are expected to continue functioning throughout the HL-LHC era, with operations projected to extend into the late 2030s or early 2040s. However, the exact timeline will depend on future scientific goals and technological advancements.
+
+#
 ### Computer User Abstraction
 
 The levels of abstraction for computer users range from the most basic, hands-on interaction with hardware to the theoretical principles underlying computational systems. At the foundational level, users interact with physical components like processors and memory, often through operating systems that abstract complex hardware operations. Moving upward, users engage with software applications, where they can use graphical interfaces and command-line tools. This layer hides the complexity of system internals, making technology accessible to a broader audience. As the user advances, they may deal with programming languages and frameworks, which require a deeper understanding of logic, data structures, and algorithms but still abstract away hardware-level concerns.
