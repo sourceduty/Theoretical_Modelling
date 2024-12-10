@@ -53,6 +53,8 @@ Alex has a dim view of theoretical modeling, dismissing it as a field riddled wi
 
 > "*It's full of people reaching upwards in abstraction and guessing, throwing a coin into the wishing well of theoretical science.*"
 
+Alex utilizes the same terminology at different abstraction levels and in different contexts with different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, concept, framework, abstraction, process, acronym, topology. Alex actively uses the highest levels of terminology in theoretical computer science.
+
 #
 ### Professional Theorist
 
