@@ -727,6 +727,8 @@ The standard parts of the Concept-Relation Model include three key elements. The
 [AGI](https://github.com/sourceduty/AGI)
 <br>
 [GPT Driven](https://github.com/sourceduty/GPT-Driven)
+<br>
+[Theoretical Ontology](https://github.com/sourceduty/Theoretical_Ontology)
 
 #
 ![Theoretical](https://github.com/user-attachments/assets/dda76db4-376e-44d8-b3c0-c09a77fb0f3c)
